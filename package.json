@@ -1,7 +1,7 @@
 {
-  "name": "react-todo-list",
+  "name": "react-drag-and-drop",
   "version": "1.0.0",
-  "description": "A simple todo list app built with React, Redux and Webpack",
+  "description": "A simple drag and drop app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "nodemon server/server.js --ignore components"
