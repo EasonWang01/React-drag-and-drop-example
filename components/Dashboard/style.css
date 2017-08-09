@@ -1,0 +1,15 @@
+.grid {
+  border: 1px dotted rgb(15,106,180);
+  width: 400px;
+  height: 300px;
+  margin: 20px
+}
+
+.modal-dialog {
+    /* new custom width */
+    width: 950px;
+}
+
+.progress-bar{
+  background-color: #43e01c;
+}
